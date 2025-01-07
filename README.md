@@ -12,6 +12,8 @@ Slightly better damage for a few DSS.
 
 Can use DSS in arena.
 
+Autorun enabled by default at start of the game.
+
 Arena plays music now.
 
 All modes unlocked at start.
